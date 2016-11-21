@@ -6,3 +6,4 @@
  - feature-Y
  - fix-B
  - FIX-B
+ - feature-C
