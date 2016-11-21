@@ -7,3 +7,4 @@
  - fix-B
  - FIX-B
  - feature-C
+wangshijie
